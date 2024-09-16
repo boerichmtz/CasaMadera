@@ -12,7 +12,7 @@ Entregamos este precioso mostrador de recepción, fabricado en madera de pino y 
 
 Cuenta con espacio para PC y 2 cajones además de gavetas adicionales de fácil acceso.
 
-![Mostrador vista detras](../assets/img/portfolio/2024_09_07_Mostrador-full_rear.jpg)
+![Mostrador vista detras](/assets/img/portfolio/2024_09_07_Mostrador-full_rear.jpg)
 
 Dimensiones: 160x50x 120 cm.
 
