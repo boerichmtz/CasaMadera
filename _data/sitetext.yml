@@ -177,12 +177,12 @@ es: &DEFAULT_ES
 
   services:
     title: "Servicios"
-    text: "Lorem ipsum"
+    text: "Estos son los servicios que ofrecemos"
     section: servicios
     list:
       - title: "Diseno y Fabricacion de muebles a la medida"
         desc: "Ponemos a su disposicion el diseno de muebles con diseños personalizados que se ajustan sus necesidades."
-        icon: fa-duotone fa-solid fa-chair #find more at https://fontawesome.com/icons
+        icon: fa-solid fa-chair #find more at https://fontawesome.com/icons
       - title: "Materiales de calidad"
         desc: "Nuestros materiales destacan por su calidad. Usamos diferentes tipos de madera y metales asi como una gama diferente de barnices y pinturas para garantizar una larga vida de su mobiliario."
         icon: fas fa-medal
