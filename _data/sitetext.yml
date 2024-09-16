@@ -234,7 +234,7 @@ es: &DEFAULT_ES
     Nos caracterizamos por realizar diseños personalizados a la medida de sus necesidades."
     section: nosotros
 
-  clients:
+  #clients:
   #  section: clientes
   #  max-height: 100px
   #  horizontal-scrolling: "" #"yes/no"
@@ -252,7 +252,7 @@ es: &DEFAULT_ES
   #      url: https://github.com/raviriley/agency-jekyll-theme
   #      logo: assets/img/clients/creative-market.jpg
 
-  team:
+#  team:
 #    title: "NUESTRO INCREÍBLE EQUIPO"
 #    text: "Lorem ipsum dolor sit amet consectetur."
 #    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
@@ -305,7 +305,7 @@ es: &DEFAULT_ES
     submit: "Enviar Mensaje"
 
   footer:
-    legal: "Política de Privacidad"
+    #legal: "Política de Privacidad"
     social:
       #- url: https://twitter.com
       #  icon: "fab fa-twitter"
