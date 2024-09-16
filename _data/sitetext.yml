@@ -192,7 +192,7 @@ es: &DEFAULT_ES
 
   portfolio:
     title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Esta es una mestra de nuestros trabajos realizados"
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
@@ -208,49 +208,49 @@ es: &DEFAULT_ES
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
+    #  - title: "Una Agencia nace"
+    #    year: "March 2011"
+    #    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+    #    image: assets/img/timeline/2.jpg
+    #    alt:
+    #  - title: "La plantilla Jekyll es creada"
+    #    year: "2019"
+    #    desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
+    #    image: assets/img/timeline/3.jpg
+    #    alt: image alt text
+    #  - title: "Título"
+    #    year: "2009-2011"
+    #    desc: "Su descripción aquí, **Markdown** es soportado completamente."
+    #    image: assets/img/timeline/4.jpg
+    #    alt:
+    #    # you can enforce the alignment
+    #    align: right
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
     title: "Sobre nosotros"
     text: "¿Quiénes somos?"
     body: "Somos un estudio integral de soluciones en mobiliario o renovacion de espacios. Fabricamos muebles industriales con alta calidad y diseño único. Contamos con una gran variedad de productos y soluciones integrales para su negocio y hogar. 
-    Nos caracterizamos por realizar disenos personalizados a la medida de sus necesidades."
+    Nos caracterizamos por realizar diseños personalizados a la medida de sus necesidades."
     section: nosotros
 
-  clients:
-    section: clientes
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  #clients:
+  #  section: clientes
+  #  max-height: 100px
+  #  horizontal-scrolling: "" #"yes/no"
+  #  list:
+  #    - title: "envato"
+  #      url: https://github.com/raviriley/agency-jekyll-theme
+  #      logo: assets/img/clients/envato.jpg
+  #    - title: "designmodo"
+  #      url: https://github.com/raviriley/agency-jekyll-theme
+  #      logo: assets/img/clients/designmodo.jpg
+  #    - title: "themeforest"
+  #      url: https://github.com/raviriley/agency-jekyll-theme
+  #      logo: assets/img/clients/themeforest.jpg
+  #    - title: "Creative Market"
+  #      url: https://github.com/raviriley/agency-jekyll-theme
+  #      logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
